@@ -5,6 +5,8 @@ EduLend is a decentralized platform designed to facilitate peer-to-peer lending 
 
 ## Contract Address
 0x8063906C2B73bf41F10058263F5ECd44F4c17911
+![image](https://github.com/user-attachments/assets/fc279366-4cf0-453e-bdd8-cd2d706cc874)
+
 
 ## Key Features
 - **Decentralized Loan Requests:** Borrowers can request loans specifying the amount, interest rate, and repayment period.
